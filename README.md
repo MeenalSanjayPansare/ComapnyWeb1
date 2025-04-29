@@ -1,2 +1,2 @@
-# ComapnyWeb1
+# WEB
 companyWebsite-static
